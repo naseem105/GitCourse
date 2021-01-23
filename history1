@@ -1,0 +1,185 @@
+    1  studo./autorun
+    2  studo./autorun.sh
+    3  ~cd desktop
+    4  nono.txt
+    5  cat > learn.txt
+    6  cat>nm.txt
+    7  whoami
+    8  hostname
+    9  pwd
+   10  cd
+   11  ls
+   12  cd Desktop
+   13  ls
+   14  cat nm.txt
+   15  shutdown now
+   16  pwd
+   17  gedit 1.txt
+   18  sudo apt install gedit
+   19  sudo apt install geany
+   20  sudo apt remove gedit
+   21  sudo apt install gedit
+   22  apt search sqlite
+   23  apt-cache search sqlite
+   24  ls
+   25  ls -l
+   26  s-> socket
+   27  s-l
+   28  ls -l
+   29  file color2.c
+   30  file 1.txt
+   31  1.txt
+   32  ./1.txt
+   33  ./ 1.txt
+   34  xxx
+   35  ls-l
+   36  ls -l
+   37  ./1.txt
+   38  ./1
+   39  ./color4
+   40  col./colormgr
+   41  ./colormgr
+   42  sudo apt instal color4
+   43  sudo apt instal color4.c
+   44  sudo apt install color4
+   45  sudo apt install color
+   46  sudo apt install color2
+   47  sudo apt install color4.c
+   48  gedit color4.c
+   49  cat color4.c
+   50  file color4.c
+   51  file color2.c
+   52  nm
+   53  sudo apt install tree
+   54  cd /
+   55  ls
+   56  cd
+   57  cd bin
+   58  cd/
+   59  cd /
+   60  cd bin
+   61  ls
+   62  ll
+   63  cd..
+   64  cd.
+   65  cd ..
+   66  cd dev
+   67  DRIVER
+   68  pwd
+   69  cat /home/naseem/Desktop/hello_linux/1.txt
+   70  pwd
+   71  cat /Desktop/hello_linux/1.txt
+   72  cat ./Desktop/hello_linux/1.txt
+   73  echo ~
+   74  cat ~//Desktop/hello_linux/1.txt
+   75  /Desktop/hello_linux/1.txt
+   76  \~
+   77  echo \~
+   78  cd ..
+   79  cd..
+   80  cd ..
+   81  cat /proc/cpuinfo
+   82  cd proc
+   83  cat cpuinfo
+   84  cd ~/
+   85  cd ~
+   86  cd powers
+   87  cd power
+   88  cd sys
+   89  cd ..
+   90  cd..
+   91  pwd
+   92  cd sys
+   93  cd ..
+   94  cd sys
+   95  ls
+   96  cd ~
+   97  date
+   98  date +%y
+   99  date +%m
+  100  date +%d
+  101  date +%d-%m
+  102  date +%d%m
+  103  date +%d/%m
+  104  mkdir dir1 dir2 dir3
+  105  ls
+  106  cd ..
+  107  echo playground/*
+  108  cd playground
+  109  echo a.pdf c.txt h.c
+  110  ls
+  111  echo > a.pdf c.txt h.c
+  112  ls
+  113  echo >  c.txt 
+  114  ls
+  115  touch e.txt m.c
+  116  ls
+  117  ls *.txt
+  118  ls *.c
+  119  touch .hidden.txt
+  120  ls- *.txt
+  121  ls -la *.txt
+  122  ls
+  123  ls -la
+  124  ls -la .*.txt
+  125  ls -la .*.txt *.txt
+  126  echo ls -l *.txt
+  127  ls -l ??.txt
+  128  ls -l ?.txt
+  129  echo [a-z].txt
+  130  touch ans.txt
+  131  echo [a-z].txt
+  132  ls -l ?.txt
+  133  ls -l ??.txt
+  134  ls
+  135  ls -l ???.txt
+  136  echo [a-z].txt
+  137  ls
+  138  find
+  139  cd dir2
+  140  toch 5.txt
+  141  touch 5.txt
+  142  ls
+  143  find
+  144  cd ..
+  145  find
+  146  man wget | grep "\-r"
+  147  man wget | grep "\-c"
+  148  history
+  149  history >2.txt
+  150  cat 2.txt
+  151  gcc 5.c
+  152  gcc 5
+  153  sudo apt install gcc
+  154  chho 55>2.pdf
+  155  echo 55>2.pdf
+  156  cat 2.pdf
+  157  echo 55
+  158  ls
+  159  cat 2.pdf
+  160  echo 55>>2.pdf
+  161  cat 2.pdf
+  162  echo 55>>3.txt
+  163  cat 3.txt
+  164  echo "55">>3.txt
+  165  cat 3.txt
+  166  mkdir dir5
+  167  gedit 3.txt
+  168  geaney
+  169  geany
+  170  git clone https://github.com/naseem105/GitCourse.git
+  171  cd GitCourse
+  172  ls
+  173  git log
+  174  git remote add origin https://github.com/naseem105/GitCourse.git
+  175  touch a
+  176  git status
+  177  git add .
+  178  git status
+  179  git commit -a " update a"
+  180  git commit -m " add  a"
+  181  git log
+  182  git pull
+  183  git status
+  184  ls
+  185  history > history1
