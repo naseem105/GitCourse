@@ -1,2 +1,5 @@
 # GitCourse
-#Didcated for real time project
+# Didcated for real time project
+upate
+one more conflict.
+
